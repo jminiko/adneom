@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: INIKO Jean-Marc
+Build-Jdk: ${java.version}
+Created-By: Apache Maven
+Archiver-Version: Plexus Archiver
